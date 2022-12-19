@@ -1,7 +1,6 @@
 package hello.login.web.session;
 
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.CookieValue;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
