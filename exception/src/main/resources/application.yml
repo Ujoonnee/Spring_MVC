@@ -1,0 +1,8 @@
+#never, always, on_param 사용 가능
+server:
+  error:
+    whitelabel.enabled: false
+    include-exception: true
+    include-message: always
+    include-stacktrace: on_param
+    include-binding-errors: always
